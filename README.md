@@ -50,6 +50,9 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
 - ## Problem Solving
     - Algorithms
         - Warmup
-            - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Warmup/mini-max-sum.php)
-            - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Warmup/birthday-cake-candles.php)
-            - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Warmup/time-conversion.php)
+            - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/mini-max-sum.php)
+            - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/birthday-cake-candles.php)
+            - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/time-conversion.php)
+    - Data Structures
+       - Linked Lists
+           - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) Print the Elements of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list.cs)
