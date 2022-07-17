@@ -54,5 +54,12 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
             - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/birthday-cake-candles.php)
             - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/time-conversion.php)
     - Data Structures
-       - Linked Lists
-           - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) Print the Elements of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list.cs)
+        - Arrays
+            - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
+            - [Problem](https://www.hackerrank.com/challenges/2d-array/problem) 2D Array - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/2d-array-ds.php)
+            - [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)  [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/dynamic-array.php)
+            - [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem) Left Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-left-rotation.php)
+            - [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem) Sparse Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/sparse-arrays.php)
+            - [Problem](https://www.hackerrank.com/challenges/crush/problem) Array Manipulation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/crush.php)
+        - Linked Lists
+            - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) Print the Elements of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list.cs)
