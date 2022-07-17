@@ -57,7 +57,7 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
             - [Problem](https://www.hackerrank.com/challenges/2d-array/problem) 2D Array - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/2d-array-ds.php)
-            - [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)  [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/dynamic-array.php)
+            - [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem) Dynamic Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/dynamic-array.php)
             - [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem) Left Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-left-rotation.php)
             - [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem) Sparse Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/sparse-arrays.php)
             - [Problem](https://www.hackerrank.com/challenges/crush/problem) Array Manipulation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/crush.php)
