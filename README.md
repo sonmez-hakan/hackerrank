@@ -50,9 +50,24 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
 - ## Problem Solving
     - Algorithms
         - Warmup
+            - [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/plus-minus.php)
+            - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/diagonal-difference.php)
             - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/birthday-cake-candles.php)
             - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/time-conversion.php)
+        - Implementation
+            - [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) Subarray Division [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/the-birthday-bar.php)
+            - [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem) Migratory Birds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/migratory-birds.php)
+            - [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) Day of the Programmer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/day-of-the-programmer.php)
+            - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) Drawing Book [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/drawing-book.php)
+            - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/counting-valleys.php)
+            - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) Electronics Shop [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/electronics-shop.php)
+            - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) Cats and a Mouse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/cats-and-a-mouse.php)
+            - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) Picking Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/picking-numbers.php)
+        - Strings
+            - [Problem](https://www.hackerrank.com/challenges/camelcase/problem) CamelCase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/camelcase.php)
+            - [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) Mars Exploration [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/mars-exploration.php)
+            - [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) Hackerrank in a String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/hackerrank-in-a-string.php)
     - Data Structures
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
