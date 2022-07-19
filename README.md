@@ -65,9 +65,22 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
             - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) Cats and a Mouse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/cats-and-a-mouse.php)
             - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) Picking Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/picking-numbers.php)
         - Strings
+            - [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) Reduced tring [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/reduced-string.php)
             - [Problem](https://www.hackerrank.com/challenges/camelcase/problem) CamelCase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/camelcase.php)
+            - [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) Caesar Cipher 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/caesar-cipher-1.php)
             - [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) Mars Exploration [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/mars-exploration.php)
             - [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) Hackerrank in a String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/hackerrank-in-a-string.php)
+            - [Problem](https://www.hackerrank.com/challenges/pangrams/problem) Pangrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/pangrams.php)
+            - [Problem](https://www.hackerrank.com/challenges/separate-the-numbers/problem) Separate the Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/separate-the-numbers.php)
+            - [Problem](https://www.hackerrank.com/challenges/funny-string/problem) Funny String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/funny-string.php)
+            - [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) Gem Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/gem-stones.php)
+            - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) Palindrome Index [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/palindrome-index.php)
+            - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/two-strings.php)
+            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/sherlock-and-anagrams.php)
+            - [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) Alternating Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/alternating-characters.php)
+            - [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) beautiful-binary-string [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/beautiful-binary-string.php)
+        - Sorting
+            - [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) Tutorial Intro [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/tutorial-intro.php)
     - Data Structures
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
