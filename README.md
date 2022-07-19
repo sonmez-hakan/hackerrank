@@ -78,7 +78,8 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
             - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/two-strings.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/sherlock-and-anagrams.php)
             - [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) Alternating Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/alternating-characters.php)
-            - [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) beautiful-binary-string [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/beautiful-binary-string.php)
+            - [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) Beautiful Binary String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/beautiful-binary-string.php)
+            - [Problem](https://www.hackerrank.com/challenges/strong-password/problem) Strong Password [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/strong-password.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) Tutorial Intro [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/tutorial-intro.php)
     - Data Structures
