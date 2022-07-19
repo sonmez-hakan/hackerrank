@@ -1,4 +1,4 @@
-# HackerRank PHP Solutions 
+# HackerRank Solutions 
 
 This repository is (mostly) PHP solutions of HackerRank Questions. 
 
