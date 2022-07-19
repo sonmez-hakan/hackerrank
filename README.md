@@ -46,7 +46,7 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
             - [Problem](https://www.hackerrank.com/challenges/frequency-queries/problem) Frequency Queries [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/frequency-queries.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) Bubble Sort [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/bubble-sort.php)
-            - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem?) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/mark-and-toys.php)
+            - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/mark-and-toys.php)
 - ## Problem Solving
     - Algorithms
         - Warmup
