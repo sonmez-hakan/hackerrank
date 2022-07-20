@@ -1,6 +1,6 @@
 # HackerRank Solutions 
 
-This repository is (mostly) PHP solutions of HackerRank Questions. 
+This repository is mostly PHP solutions of HackerRank Questions. But there are also some C# and Java solutions.
 
 - ## Preparation Kits
     - 1 Week Preparation Kit
@@ -50,36 +50,56 @@ This repository is (mostly) PHP solutions of HackerRank Questions.
 - ## Problem Solving
     - Algorithms
         - Warmup
+            - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
+            - [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) Simple Array Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/simple-array-sum.cs)
+            - [Problem](https://www.hackerrank.com/challenges/compare-the-triplet/problem) Compare the Triplet [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/compare-the-triplet.cs)
+            - [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) A Very Big Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/a-very-big-sum.cs)
+            - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) Diagonal Difference [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/diagonal-difference.php)
             - [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/plus-minus.php)
-            - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/diagonal-difference.php)
+            - [Problem](https://www.hackerrank.com/challenges/staircase/problem) staircase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/staircase.cs)
             - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/birthday-cake-candles.php)
             - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/time-conversion.php)
         - Implementation
+            - [Problem](https://www.hackerrank.com/challenges/grading/problem) Grading [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/grading.php)
+            - [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) Apple and Orange [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/apple-and-orange.php)
+            - [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) Kangaroo [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/kangaroo.php)
+            - [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) Between Two Sets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/between-two-sets.php)
+            - [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) Breaking Best and Worst Records [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/breaking-best-and-worst-records.php)
             - [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) Subarray Division [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/the-birthday-bar.php)
+            - [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) Divisible Sum Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/divisible-sum-pairs.cs)
             - [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem) Migratory Birds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/migratory-birds.php)
             - [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) Day of the Programmer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/day-of-the-programmer.php)
+            - [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) Bill Division [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/bon-appetit.cs)
+            - [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) Sales by Match [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/sock-merchant.cs)
             - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) Drawing Book [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/drawing-book.php)
             - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/counting-valleys.php)
             - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) Electronics Shop [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/electronics-shop.php)
             - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) Cats and a Mouse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/cats-and-a-mouse.php)
             - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) Picking Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/picking-numbers.php)
+            - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) The Hurdle Race [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/the-hurdle-race.php)
         - Strings
-            - [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) Reduced tring [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/reduced-string.php)
+            - [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) Super Reduced String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/reduced-string.php)
             - [Problem](https://www.hackerrank.com/challenges/camelcase/problem) CamelCase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/camelcase.php)
+            - [Problem](https://www.hackerrank.com/challenges/strong-password/problem) Strong Password [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/strong-password.php)
             - [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) Caesar Cipher 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/caesar-cipher-1.php)
             - [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) Mars Exploration [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/mars-exploration.php)
             - [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) Hackerrank in a String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/hackerrank-in-a-string.php)
             - [Problem](https://www.hackerrank.com/challenges/pangrams/problem) Pangrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/pangrams.php)
+            - [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) weighted-uniform-string [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/weighted-uniform-string.php)
             - [Problem](https://www.hackerrank.com/challenges/separate-the-numbers/problem) Separate the Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/separate-the-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/funny-string/problem) Funny String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/funny-string.php)
             - [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) Gem Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/gem-stones.php)
-            - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) Palindrome Index [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/palindrome-index.php)
-            - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/two-strings.php)
-            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/sherlock-and-anagrams.php)
             - [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) Alternating Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/alternating-characters.php)
             - [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) Beautiful Binary String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/beautiful-binary-string.php)
-            - [Problem](https://www.hackerrank.com/challenges/strong-password/problem) Strong Password [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/strong-password.php)
+            - [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) The Love Letter Mystery [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/the-love-letter-mystery.php)
+            - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) Palindrome Index [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/palindrome-index.php)
+            - [Problem](https://www.hackerrank.com/challenges/anagram/problem) Anagram [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/anagram.php)
+            - [Problem](https://www.hackerrank.com/challenges/making-anagrams/problem) Making Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/making-anagrams.php)
+            - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) Game of Thrones 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/game-of-thrones.php)
+            - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/two-strings.php)
+            - [Problem](https://www.hackerrank.com/challenges/string-construction/problem) String Construction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/string-construction.php)
+            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/sherlock-and-anagrams.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) Tutorial Intro [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/tutorial-intro.php)
     - Data Structures
