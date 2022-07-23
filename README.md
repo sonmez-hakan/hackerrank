@@ -35,6 +35,11 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-preorder-traversal/problem)  Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-preorder-traversal.java)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-huffman-decoding.java)
     - Interview Preparation Kit
+        - Warm-up Challenges
+            - [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) Sales by Match [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.cs)
+            - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/counting-valleys.php)
+            - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) Jumping on the Clouds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/jumping-on-the-clouds.php)
+            - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) Repeated String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/repeated-string.cs)
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/2d-array/problem) 2D Array DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/2d-array-ds.php)
             - [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) Left Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/left-rotation.php)
@@ -53,6 +58,10 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
         - String Manipulation
             - [Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) Strings: Making Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/String%20Manipulation/ctci-making-anagrams.php)
             - [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) Alternating Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/alternating-characters.php)
+        - Stacks and Queues
+            - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
+        - Recursion and Backtracking
+            - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
 - ## Problem Solving
     - Algorithms
         - Warmup
