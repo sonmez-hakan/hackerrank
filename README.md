@@ -98,6 +98,33 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/append-and-delete/problem) Append and Delete [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/append-and-delete.cs)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) Sherlock and Squares [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/sherlock-and-squares.cs)
             - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) Library Fine [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/library-fine.cs)
+            - [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem) Cut the sticks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/cut-the-sticks.cs)
+            - [Problem](https://www.hackerrank.com/challenges/lnon-divisible-subset/problem) Non-Divisible Subset [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/non-divisible-subset.cs)
+            - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) Repeated String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/repeated-string.cs)
+            - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) Jumping on the Clouds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/jumping-on-the-clouds.cs)
+            - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) Equalize the Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/equality-in-a-array.cs)
+            - [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) ACM ICPC Team [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/acm-icpc-team.cs)
+            - [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) Taum and B'day [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/taum-and-bday.cs)
+            - [Problem](https://www.hackerrank.com/challenges/encryption/problem) Encryption [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/encryption.cs)
+            - [Problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem) Bigger is Greater [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/bigger-is-greater.cs)
+            - [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) Modified Kaprekar Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/kaprekar-numbers.cs)
+            - [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) Beautiful Triplets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/beautiful-triplets.cs)
+            - [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) Minimum Distances [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/minimum-distances.cs)
+            - [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) Halloween Sale [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/halloween-sale.cs)
+            - [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) The Time in Words [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/the-time-in-words.cs)
+            - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) Chocolate Feast [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/chocolate-feast.cs)
+            - [Problem](https://www.hackerrank.com/challenges/service-lane/problem) Service Lane [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/service-lane.cs)
+            - [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) Lisa's Workbook [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/lisa-workbook.cs)
+            - [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) Flatland Space Stations [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/flatland-space-stations.cs)
+            - [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) Fair Rations [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/fair-rations.cs)
+            - [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) Cavity Map [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/cavity-map.cs)
+            - [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem) Manasa and Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/manasa-and-stones.cs)
+            - [Problem](https://www.hackerrank.com/challenges/the-grid-search/problem) The Grid Search [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/the-grid-search.cs)
+            - [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem) Happy Ladybugs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/happy-ladybugs.cs)
+            - [Problem](https://www.hackerrank.com/challenges/strange-code/problem) Strange Counter [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/strange-code.cs)
+            - [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem) Absolute Permutation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/absolute-permutation.cs)
+            - [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem) Almost Sorted [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/almost-sorted.cs)
+            - [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) Matrix Layer Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/matrix-rotation-algo.cs)
         - Strings
             - [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) Super Reduced String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/reduced-string.php)
             - [Problem](https://www.hackerrank.com/challenges/camelcase/problem) CamelCase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/camelcase.php)
@@ -132,7 +159,27 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/countingsort2/problem) Counting Sort 2 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/countingsort2.php)
             - [Problem](https://www.hackerrank.com/challenges/closest-numbers/problem) Closest Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/closest-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem) Find the Median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/find-the-median.php)
-            - [Problem](https://www.hackerrank.com/challenges/countingsort4/problem) countingsort4 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/countingsort4.php)
+            - [Problem](https://www.hackerrank.com/challenges/countingsort4/problem) Counting Sort 4 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Sorting/countingsort4.php)
+        - Search
+            - [Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem) Ice Cream Parlor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/icecream-parlor.php)
+            - [Problem](https://www.hackerrank.com/challenges/missing-numbers/problem) Missing Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/missing-numbers.php)
+            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/sherlock-and-array.php)
+        - Greedy
+            - [Problem](https://www.hackerrank.com/challenges/grid-challenge/problem) Grid Challenge [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/grid-challenge.php)
+            - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/mark-and-toys.php)
+        - Constructive Algorithms
+            - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/flipping-the-matrix.cs)
+            - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
+        - Bit Manipulation
+            - [Problem](https://www.hackerrank.com/challenges/lonely-intege/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/lonely-intege.php)
+        - Recursion
+            - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Recursion/recursive-digit-sum.php)
+        - Game Theory
+            - [Problem](https://www.hackerrank.com/challenges/tower-breakers-1/problem) Tower Breakers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/tower-breakers-1.php)
+        - Debugging
+            - [Problem](https://www.hackerrank.com/challenges/strings-xor/problem) XOR Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/strings-xor.java)
+            - [Problem](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/zig-zag-sequence.java)
+            - [Problem](https://www.hackerrank.com/challenges/smart-number/problem) Smart Number [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/smart-number.cpp)
     - Data Structures
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
@@ -146,3 +193,9 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
         - Trees
             - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
             - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/tree-huffman-decoding.cs)
+        - Stacks
+            - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Stacks/balanced-brackets.cs)
+            - [Problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Stacks/simple-text-editor.cs)
+        - Queues
+            - [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Queues/queue-using-two-stacks.cs)
+            - [Problem](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Queues/truck-tour.cs)
