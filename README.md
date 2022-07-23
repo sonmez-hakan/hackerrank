@@ -5,7 +5,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
 - ## Preparation Kits
     - 1 Week Preparation Kit
         - Day 1
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/mini-max-sum.php)
+            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) Plus Minus [Solution](blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/plus-minus.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/time-conversion.php)
             - [Mock Test]()  [Solution]()
