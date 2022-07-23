@@ -3,7 +3,7 @@
 This repository is mostly PHP solutions of HackerRank Questions. But there are also some C# and Java solutions.
 
 - ## Preparation Kits
-    - 1 Week Preparation Kit
+    - 1 Week Preparation Kit (18 / 21)
         - Day 1
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/plus-minus.php)
@@ -34,7 +34,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
         - Day 7
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-preorder-traversal/problem)  Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-preorder-traversal.java)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-huffman-decoding.java)
-    - Interview Preparation Kit
+    - Interview Preparation Kit (21 / 69)
         - Warm-up Challenges
             - [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) Sales by Match [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.cs)
             - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/counting-valleys.php)
@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving
+- ## Problem Solving (127 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
