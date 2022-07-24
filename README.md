@@ -8,27 +8,27 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/plus-minus.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/time-conversion.php)
-            - [Mock Test]()  [Solution]()
+            - [Mock Test](https://www.hackerrank.com/challenges/find-the-median/problem) Find the median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/find-the-median.php)
         - Day 2
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/lonely-integer.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem) Diagonal Difference [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/diagonal-difference.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem) Counting Sort 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/countingsort1.php)
-            - [Mock Test]()  [Solution]()
+            - [Mock Test](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/flipping-the-matrix.php)
         - Day 3
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/zig-zag-sequence.java)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem) Tower Breakers 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/tower-breakers-1.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) Caesar Cipher [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/caesar-cipher-1.php)
-            - [Mock Test]()  [Solution]()
+            - [Mock Test](https://www.hackerrank.com/challenges/palindrome-index/problem) Palindrome Index [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/palindrome-index.php)
         - Day 4
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem) Grid Challenge [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/grid-challenge.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/new-year-chaos.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/recursive-digit-sum.php)
-            - [Mock Test]()  [Solution]()
+            - [Mock Test](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour  [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/truck-tour.php)
         - Day 5
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem) Merge two sorted linked lists [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/merge-two-sorted-linked-lists.cs)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/queue-using-two-stacks.php)
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/balanced-brackets.php)
-            - [Mock Test]()  [Solution]()
+            - [Mock Test](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/pairs.php)
         - Day 6
             - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%206/simple-text-editor.php)
         - Day 7
@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving (138 / 563)
+- ## Problem Solving (139 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
@@ -173,6 +173,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem) Ice Cream Parlor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/icecream-parlor.php)
             - [Problem](https://www.hackerrank.com/challenges/missing-numbers/problem) Missing Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/missing-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/sherlock-and-array.php)
+            - [Problem](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/pairs.php)
         - Greedy
             - [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) Minimum Absolute Difference in an Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/minimum-absolute-difference-in-an-array.php)
             - [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) Marc's Cakewalk [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/marcs-cakewalk.php)
@@ -187,7 +188,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) Jim and the Orders [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/jim-and-the-orders.php)
             - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/two-arrays.php)
         - Constructive Algorithms
-            - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/flipping-the-matrix.cs)
+            - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
             - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
         - Bit Manipulation
             - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/lonely-integer.php)
