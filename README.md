@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving (127 / 563)
+- ## Problem Solving (138 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
@@ -174,13 +174,24 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
             - [Problem](https://www.hackerrank.com/challenges/missing-numbers/problem) Missing Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/missing-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/sherlock-and-array.php)
         - Greedy
+            - [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) Minimum Absolute Difference in an Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/minimum-absolute-difference-in-an-array.php)
+            - [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) Marc's Cakewalk [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/marcs-cakewalk.php)
             - [Problem](https://www.hackerrank.com/challenges/grid-challenge/problem) Grid Challenge [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/grid-challenge.php)
+            - [Problem](https://www.hackerrank.com/challenges/luck-balance/problem) Luck Balance [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/luck-balance.php)
+            - [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem) Maximum Perimeter Triangle [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/maximum-perimeter-triangle.php)
+            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) Sherlock and The Beast [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/sherlock-and-the-beast.php)
+            - [Problem](https://www.hackerrank.com/challenges/beautiful-pairs/problem) Beautiful Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/beautiful-pairs.php)
+            - [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) Priyanka and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/priyanka-and-toys.php)
+            - [Problem](https://www.hackerrank.com/challenges/largest-permutation/problem) Largest Permutation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/largest-permutation.php)
             - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/mark-and-toys.php)
+            - [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) Jim and the Orders [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/jim-and-the-orders.php)
+            - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/two-arrays.php)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/flipping-the-matrix.cs)
             - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
         - Bit Manipulation
-            - [Problem](https://www.hackerrank.com/challenges/lonely-intege/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/lonely-intege.php)
+            - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/lonely-integer.php)
+            - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/flipping-bits.php)
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
