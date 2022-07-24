@@ -1,6 +1,6 @@
 # HackerRank Solutions 
 
-This repository is mostly PHP solutions of HackerRank Questions. But there are also some C# and Java solutions.
+This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
 - ## Preparation Kits
     - 1 Week Preparation Kit (18 / 21)
