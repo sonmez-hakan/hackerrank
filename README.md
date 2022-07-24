@@ -193,10 +193,12 @@ This repository is mostly PHP solutions of HackerRank Questions. But there are a
         - Bit Manipulation
             - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/lonely-integer.php)
             - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/flipping-bits.php)
+            - [Problem](https://www.hackerrank.com/challenges/maximizing-xor/problem) Maximizing XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Bit%20Manipulation/maximizing-xor.php)
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
             - [Problem](https://www.hackerrank.com/challenges/tower-breakers-1/problem) Tower Breakers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/tower-breakers-1.php)
+            - [Problem](https://www.hackerrank.com/challenges/poker-nim-1/problem) Poker Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/poker-nim-1.php)
         - Debugging
             - [Problem](https://www.hackerrank.com/challenges/strings-xor/problem) XOR Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/strings-xor.java)
             - [Problem](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/zig-zag-sequence.java)
