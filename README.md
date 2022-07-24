@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving (141 / 563)
+- ## Problem Solving (142 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
@@ -198,6 +198,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
             - [Problem](https://www.hackerrank.com/challenges/tower-breakers-1/problem) Tower Breakers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/tower-breakers-1.php)
+            - [Problem](https://www.hackerrank.com/challenges/misere-nim-1/problem) Misère Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/misere-nim-1.php)
             - [Problem](https://www.hackerrank.com/challenges/poker-nim-1/problem) Poker Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/poker-nim-1.php)
         - Debugging
             - [Problem](https://www.hackerrank.com/challenges/strings-xor/problem) XOR Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/strings-xor.java)
