@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving (144 / 563)
+- ## Problem Solving (145 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
@@ -132,6 +132,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem) Happy Ladybugs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/happy-ladybugs.cs)
             - [Problem](https://www.hackerrank.com/challenges/strange-code/problem) Strange Counter [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/strange-code.cs)
             - [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem) Absolute Permutation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/absolute-permutation.cs)
+            - [Problem](https://www.hackerrank.com/challenges/bomber-man/problem) The Bomberman Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/bomber-man.cs)
             - [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem) Almost Sorted [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/almost-sorted.cs)
             - [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) Matrix Layer Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/matrix-rotation-algo.cs)
         - Strings
