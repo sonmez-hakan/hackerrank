@@ -62,7 +62,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
         - Recursion and Backtracking
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
-- ## Problem Solving (146 / 563)
+- ## Problem Solving (152 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
@@ -176,6 +176,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/missing-numbers/problem) Missing Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/missing-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/sherlock-and-array.php)
             - [Problem](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/pairs.php)
+            - [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) Connected Cells in a Grid [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Search/connected-cell-in-a-grid.cs)
         - Greedy
             - [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) Minimum Absolute Difference in an Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/minimum-absolute-difference-in-an-array.php)
             - [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) Marc's Cakewalk [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Greedy/marcs-cakewalk.php)
@@ -208,6 +209,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/strings-xor/problem) XOR Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/strings-xor.java)
             - [Problem](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/zig-zag-sequence.java)
             - [Problem](https://www.hackerrank.com/challenges/smart-number/problem) Smart Number [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/smart-number.cpp)
+            - [Problem](https://www.hackerrank.com/challenges/prime-date/problem) Prime Date [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/prime-date.java)
     - Data Structures
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/array-ds.php)
@@ -218,6 +220,10 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/crush/problem) Array Manipulation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Arrays/crush.php)
         - Linked Lists
             - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) Print the Elements of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list.cs)
+            - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) Insert a Node at the Tail of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/insert-a-node-at-the-tail-of-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) Insert a Node at the Head of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/insert-a-node-at-the-head-of-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) Cycle Detection [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.java)
+            - [Problem](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) Delete Node [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/delete-a-node-from-a-linked-list.java)
         - Trees
             - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
             - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Data%20Structures/Linked%20Lists/tree-huffman-decoding.cs)
