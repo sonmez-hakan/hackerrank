@@ -2,66 +2,6 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
-- ## Preparation Kits
-    - 1 Week Preparation Kit (18 / 21)
-        - Day 1
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem) Plus Minus [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/mini-max-sum.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/plus-minus.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/time-conversion.php)
-            - [Mock Test](https://www.hackerrank.com/challenges/find-the-median/problem) Find the median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%201/find-the-median.php)
-        - Day 2
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/lonely-integer.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem) Diagonal Difference [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/diagonal-difference.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem) Counting Sort 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/countingsort1.php)
-            - [Mock Test](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%202/flipping-the-matrix.php)
-        - Day 3
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/zig-zag-sequence.java)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem) Tower Breakers 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/tower-breakers-1.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem) Caesar Cipher [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/caesar-cipher-1.php)
-            - [Mock Test](https://www.hackerrank.com/challenges/palindrome-index/problem) Palindrome Index [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%203/palindrome-index.php)
-        - Day 4
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem) Grid Challenge [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/grid-challenge.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/new-year-chaos.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/recursive-digit-sum.php)
-            - [Mock Test](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour  [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%204/truck-tour.php)
-        - Day 5
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem) Merge two sorted linked lists [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/merge-two-sorted-linked-lists.cs)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/queue-using-two-stacks.php)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/balanced-brackets.php)
-            - [Mock Test](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%205/pairs.php)
-        - Day 6
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%206/simple-text-editor.php)
-        - Day 7
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-preorder-traversal/problem)  Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-preorder-traversal.java)
-            - [Problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/1%20Week%20Preparation%20Kit/Day%207/tree-huffman-decoding.java)
-    - Interview Preparation Kit (21 / 69)
-        - Warm-up Challenges
-            - [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) Sales by Match [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/sock-merchant.cs)
-            - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/counting-valleys.php)
-            - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) Jumping on the Clouds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/jumping-on-the-clouds.php)
-            - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) Repeated String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Warm-up%20Challenges/repeated-string.cs)
-        - Arrays
-            - [Problem](https://www.hackerrank.com/challenges/2d-array/problem) 2D Array DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/2d-array-ds.php)
-            - [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) Left Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/left-rotation.php)
-            - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/minimum-swaps-2.php)
-            - [Problem](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) Minimum Swaps 2 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/new-year-chaos.php)
-            - [Problem](https://www.hackerrank.com/challenges/crush/problem) Crush [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Arrays/crush.php)
-        - Dictionaries and Hashmaps
-            - [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) Hash Tables: Ransom Note [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/hash-tables-ransom-note.php)
-            - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/sherlock-and-anagrams.php)
-            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/two-strings.php)
-            - [Problem](https://www.hackerrank.com/challenges/count-triplets-1/problem) Count Triplets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/count-triplets.php)
-            - [Problem](https://www.hackerrank.com/challenges/frequency-queries/problem) Frequency Queries [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/DictionariesAndHashmaps/frequency-queries.php)
-        - Sorting
-            - [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) Bubble Sort [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/bubble-sort.php)
-            - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/mark-and-toys.php)
-        - String Manipulation
-            - [Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) Strings: Making Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/String%20Manipulation/ctci-making-anagrams.php)
-            - [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) Alternating Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Sorting/alternating-characters.php)
-        - Stacks and Queues
-            - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Stacks%20and%20Queues/balanced-brackets.php)
-        - Recursion and Backtracking
-            - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Preparation%20Kits/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/recursive-digit-sum.cs)
 - ## Problem Solving (152 / 563)
     - Algorithms
         - Warmup
@@ -140,6 +80,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) Super Reduced String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/reduced-string.php)
             - [Problem](https://www.hackerrank.com/challenges/camelcase/problem) CamelCase [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/camelcase.php)
             - [Problem](https://www.hackerrank.com/challenges/strong-password/problem) Strong Password [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/strong-password.php)
+            - [Problem](https://www.hackerrank.com/challenges/two-characters/problem) Two Characters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/two-characters.php)
             - [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) Caesar Cipher 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/caesar-cipher-1.php)
             - [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) Mars Exploration [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/mars-exploration.php)
             - [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) Hackerrank in a String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/hackerrank-in-a-string.php)
@@ -201,9 +142,11 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
+            - [Problem](https://www.hackerrank.com/challenges/game-of-stones-1/problem) Game of Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/game-of-stones-1.php)
             - [Problem](https://www.hackerrank.com/challenges/tower-breakers-1/problem) Tower Breakers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/tower-breakers-1.php)
             - [Problem](https://www.hackerrank.com/challenges/nim-game-1/problem) Introduction to Nim Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/nim-game-1.php)
             - [Problem](https://www.hackerrank.com/challenges/misere-nim-1/problem) Misère Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/misere-nim-1.php)
+            - [Problem](https://www.hackerrank.com/challenges/nimble-game-1/problem) Nimble Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/nimble-game-1.php)
             - [Problem](https://www.hackerrank.com/challenges/poker-nim-1/problem) Poker Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Game%20Theory/poker-nim-1.php)
         - Debugging
             - [Problem](https://www.hackerrank.com/challenges/strings-xor/problem) XOR Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Debugging/strings-xor.java)
