@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
-- ## Problem Solving (152 / 563)
+- ## Problem Solving (155 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/solve-me-first.cs)
