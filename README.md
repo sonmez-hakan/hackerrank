@@ -1,8 +1,8 @@
 # HackerRank Solutions 
 
-This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
+This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java 15 solutions.
 
-- ## Problem Solving (156 / 563)
+- ## Problem Solving (160 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -32,6 +32,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) Electronics Shop [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/electronics-shop.php)
             - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) Cats and a Mouse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/cats-and-a-mouse.php)
             - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) Picking Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/picking-numbers.php)
+            - [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) Climbing the Leaderboard [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/climbing-the-leaderboard.php)
             - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) The Hurdle Race [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/the-hurdle-race.php)
             - [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) Designer PDF Viewer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/designer-pdf-viewer.cs)
             - [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) Utopian Tree [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/utopian-tree.cs)
@@ -166,8 +167,11 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) Print the Elements of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list.cs)
             - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) Insert a Node at the Tail of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-the-tail-of-a-linked-list.java)
             - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) Insert a Node at the Head of a Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-the-head-of-a-linked-list.java)
-            - [Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) Cycle Detection [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.java)
             - [Problem](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) Delete Node [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/delete-a-node-from-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) Print in Reverse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list-in-reverse.java)
+            - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) Insert a node at a specific position in a linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-a-specific-position-in-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) Reverse a linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/reverse-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) Cycle Detection [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.java)
         - Trees
             - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
             - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-huffman-decoding.cs)
