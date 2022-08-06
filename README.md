@@ -1,6 +1,6 @@
 # HackerRank Solutions 
 
-This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java 15 solutions.
+This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
 - ## Problem Solving (163 / 563)
     - Algorithms
