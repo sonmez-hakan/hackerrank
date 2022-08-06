@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java 15 solutions.
 
-- ## Problem Solving (160 / 563)
+- ## Problem Solving (163 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -171,6 +171,9 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) Print in Reverse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/print-the-elements-of-a-linked-list-in-reverse.java)
             - [Problem](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) Insert a node at a specific position in a linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-at-a-specific-position-in-a-linked-list.java)
             - [Problem](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) Reverse a linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/reverse-a-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) Merge two sorted linked lists [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/merge-two-sorted-linked-lists.java)
+            - [Problem](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) Get Node Value [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/get-the-value-of-the-node-at-a-specific-position-from-the-tail.java)
+            - [Problem](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) Delete duplicate-value nodes from a sorted linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/delete-duplicate-value-nodes-from-a-sorted-linked-list.java)
             - [Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) Cycle Detection [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.java)
         - Trees
             - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
