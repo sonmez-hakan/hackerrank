@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
-- ## Problem Solving (165 / 563)
+- ## Problem Solving (167 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -176,7 +176,9 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) Delete duplicate-value nodes from a sorted linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/delete-duplicate-value-nodes-from-a-sorted-linked-list.java)
             - [Problem](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) Compare two linked lists [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/compare-two-linked-lists.java)
             - [Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) Cycle Detection [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/detect-whether-a-linked-list-contains-a-cycle.java)
+            - [Problem](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) Find Merge Point of Two Lists [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/find-the-merge-point-of-two-joined-linked-lists.java)
             - [Problem](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) Inserting a Node Into a Sorted Doubly Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-into-a-sorted-doubly-linked-list.java)
+            - [Problem](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) Reverse a doubly linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/reverse-a-doubly-linked-list.java)
         - Trees
             - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
             - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-huffman-decoding.cs)
