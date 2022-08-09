@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
-- ## Problem Solving (167 / 563)
+- ## Problem Solving (170 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -180,11 +180,14 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) Inserting a Node Into a Sorted Doubly Linked List [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/insert-a-node-into-a-sorted-doubly-linked-list.java)
             - [Problem](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) Reverse a doubly linked list [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/reverse-a-doubly-linked-list.java)
         - Trees
-            - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-preorder-traversal.cs)
-            - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Linked%20Lists/tree-huffman-decoding.cs)
+            - [Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) Tree: Preorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-preorder-traversal.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) Tree: Huffman Decoding [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-huffman-decoding.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) Tree: Postorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-postorder-traversal.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) Tree: Inorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-inorder-traversal.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) Tree: Height of a Binary Tree [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-height-of-a-binary-tree.java)
         - Stacks
-            - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/balanced-brackets.cs)
-            - [Problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/simple-text-editor.cs)
+            - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/balanced-brackets.php)
+            - [Problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/simple-text-editor.php)
         - Queues
-            - [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/queue-using-two-stacks.cs)
-            - [Problem](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/truck-tour.cs)
+            - [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/queue-using-two-stacks.php)
+            - [Problem](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/truck-tour.php)
