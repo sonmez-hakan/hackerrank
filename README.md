@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
 
-- ## Problem Solving (170 / 563)
+- ## Problem Solving (173 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -191,3 +191,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
         - Queues
             - [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/queue-using-two-stacks.php)
             - [Problem](https://www.hackerrank.com/challenges/truck-tour/problem) Truck Tour [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/truck-tour.php)
+        - Heap
+            - [Problem](https://www.hackerrank.com/challenges/qheap1/problem) QHEAP1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Heap/qheap1.java)
+            - [Problem](https://www.hackerrank.com/challenges/jesse-and-cookies/problem) Jesse and Cookies [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Heap/jesse-and-cookies.java)
+            - [Problem](https://www.hackerrank.com/challenges/find-the-running-median/problem) Find the Running Median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Heap/find-the-running-median.java)
