@@ -1,8 +1,8 @@
 # HackerRank Solutions 
 
-This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and a few Java solutions.
+This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and Java solutions.
 
-- ## Problem Solving (173 / 563)
+- ## Problem Solving (174 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -185,6 +185,8 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) Tree: Postorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-postorder-traversal.java)
             - [Problem](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) Tree: Inorder Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-inorder-traversal.java)
             - [Problem](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) Tree: Height of a Binary Tree [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-height-of-a-binary-tree.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) Tree: Level Order Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-level-order-traversal.java)
+            - [Problem](https://www.hackerrank.com/challenges/tree-top-view/problem) Tree : Top View [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-top-view.java)
         - Stacks
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/balanced-brackets.php)
             - [Problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/simple-text-editor.php)
