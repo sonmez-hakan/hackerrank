@@ -2,7 +2,7 @@
 
 This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and Java solutions.
 
-- ## Problem Solving (174 / 563)
+- ## Problem Solving (176 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -188,7 +188,9 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) Tree: Level Order Traversal [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-level-order-traversal.java)
             - [Problem](https://www.hackerrank.com/challenges/tree-top-view/problem) Tree : Top View [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Trees/tree-top-view.java)
         - Stacks
+            - [Problem](https://www.hackerrank.com/challenges/maximum-element/problem) Maximum Element [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/maximum-element.php)
             - [Problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) Balanced Brackets [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/balanced-brackets.php)
+            - [Problem](https://www.hackerrank.com/challenges/equal-stacks/problem) Equal Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/equal-stacks.php)
             - [Problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) Simple Text Editor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Stacks/simple-text-editor.php)
         - Queues
             - [Problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) Queue using Two Stacks [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Queues/queue-using-two-stacks.php)
