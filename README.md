@@ -1,8 +1,9 @@
 # HackerRank Solutions 
 
-This repository is mostly PHP solutions of HackerRank Questions. However, there are some C# and Java solutions.
+This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data Structures' Questions. However, there are some C# solutions.
+So far there are 181 solutions, and it is one of the biggest solutions repository for Algorithms & Data Structures.
 
-- ## Problem Solving (178 / 563)
+- ## Problem Solving (181 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -121,6 +122,7 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/sherlock-and-array.php)
             - [Problem](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/pairs.php)
             - [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) Connected Cells in a Grid [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/connected-cell-in-a-grid.cs)
+            - [Problem](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem) Red Knight's Shortest Path [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/red-knights-shortest-path.java)
         - Greedy
             - [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) Minimum Absolute Difference in an Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/minimum-absolute-difference-in-an-array.php)
             - [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) Marc's Cakewalk [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/marcs-cakewalk.php)
@@ -132,6 +134,8 @@ This repository is mostly PHP solutions of HackerRank Questions. However, there 
             - [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) Priyanka and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/priyanka-and-toys.php)
             - [Problem](https://www.hackerrank.com/challenges/largest-permutation/problem) Largest Permutation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/largest-permutation.php)
             - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) Mark and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/mark-and-toys.php)
+            - [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem) Greedy Florist [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/greedy-florist.java)
+            - [Problem](https://www.hackerrank.com/challenges/angry-children/problem) Max min [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/angry-children.java)
             - [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) Jim and the Orders [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/jim-and-the-orders.php)
             - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/two-arrays.php)
         - Constructive Algorithms
