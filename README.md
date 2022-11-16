@@ -10,7 +10,6 @@ Points: 4160.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
-Algorithm Warmup completed<br>
 Algorithm Implementation has 2 challenge to complete.<br>
 
 Last Update 16.11.2022
