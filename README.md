@@ -1,9 +1,9 @@
 # HackerRank Solutions 
 
 This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data Structures' Questions. However, there are some C# solutions.
-So far there are 181 solutions, and it is one of the biggest solutions repository for Algorithms & Data Structures.
+So far there are 182 solutions, and it is one of the biggest solutions repository for Algorithms & Data Structures.
 
-- ## Problem Solving (181 / 563)
+- ## Problem Solving (182 / 563)
     - Algorithms
         - Warmup
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
@@ -54,6 +54,7 @@ So far there are 181 solutions, and it is one of the biggest solutions repositor
             - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) Repeated String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/repeated-string.cs)
             - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) Jumping on the Clouds [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/jumping-on-the-clouds.cs)
             - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) Equalize the Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/equality-in-a-array.cs)
+            - [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) Queen's Attack II [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/queens-attack-2.java)
             - [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) ACM ICPC Team [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/acm-icpc-team.cs)
             - [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) Taum and B'day [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/taum-and-bday.cs)
             - [Problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) Organizing Containers of Balls [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/organizing-containers-of-balls.php)
