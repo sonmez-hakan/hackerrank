@@ -1,16 +1,16 @@
 # HackerRank Solutions 
 
 This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data Structures' Questions. However, there are some C# solutions.
-It is one of the biggest solutions repository for Algorithms & Data Structures.
+It is one of the biggest public repository for Algorithms & Data Structures.
 
-Notes:
-3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)
-Algorithm Warmup completed
-Algorithm Implementation has 2 challenge to complete.
+Notes:<br>
+3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
+Algorithm Warmup completed<br>
+Algorithm Implementation has 2 challenge to complete.<br>
 
-Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)
-182/563 challenges solved
-Rank: 6311 
+Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
+182/563 challenges solved<br>
+Rank: 6311<br>
 Points: 4160.45
 
 Last Update 16.11.2022
