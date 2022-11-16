@@ -4,15 +4,15 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-182/563 challenges solved<br>
-Rank: 6311<br>
-Points: 4160.45
+183/563 challenges solved<br>
+Rank: 6194<br>
+Points: 4190.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
 Algorithm Implementation has 2 challenge to complete.<br>
 
-Last Update 16.11.2022
+Last Update 17.11.2022
 
 - ## Problem Solving
     - Algorithms
@@ -158,6 +158,7 @@ Last Update 16.11.2022
             - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/flipping-bits.php)
             - [Problem](https://www.hackerrank.com/challenges/maximizing-xor/problem) Maximizing XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/maximizing-xor.php)
             - [Problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem) Sum vs XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sum-vs-xor.php)
+            - [Problem](https://www.hackerrank.com/challenges/sansa-and-xor/problem) Sansa and XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sansa-and-xor.java)
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
