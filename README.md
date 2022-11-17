@@ -4,9 +4,9 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-185/563 challenges solved<br>
-Rank: 5906<br>
-Points: 4260.45
+186/563 challenges solved<br>
+Rank: 5761<br>
+Points: 4295.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
@@ -156,6 +156,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
+            - [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) Gaming Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/an-interesting-game-1.java)
             - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
         - Bit Manipulation
             - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/lonely-integer.php)
