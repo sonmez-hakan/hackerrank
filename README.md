@@ -4,14 +4,15 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-183/563 challenges solved<br>
-Rank: 6100<br>
-Points: 4215.45
+185/563 challenges solved<br>
+Rank: 5906<br>
+Points: 4260.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
-Algorithm Implementation has 2 challenge to be completed.<br>
-Algorithm Sorting has 3 challenge to be completed. <br>
+Algorithm Implementation has 2 challenges to be completed.<br>
+Algorithm Sorting has 3 challenges to be completed. <br>
+Problem Solving (Basic) has 8 challenges to be completed. <br>
 
 Last Update 17.11.2022
 
