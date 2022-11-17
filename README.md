@@ -151,6 +151,8 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/angry-children/problem) Max min [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/angry-children.java)
             - [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) Jim and the Orders [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/jim-and-the-orders.php)
             - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/two-arrays.php)
+        - Dynamic Programming
+            - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
             - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
