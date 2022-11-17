@@ -5,18 +5,19 @@ It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 183/563 challenges solved<br>
-Rank: 6194<br>
-Points: 4190.45
+Rank: 6100<br>
+Points: 4215.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
-Algorithm Implementation has 2 challenge to complete.<br>
+Algorithm Implementation has 2 challenge to be completed.<br>
+Algorithm Sorting has 3 challenge to be completed. <br>
 
 Last Update 17.11.2022
 
 - ## Problem Solving
     - Algorithms
-        - Warmup
+        - Warmup (Completed)
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
             - [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) Simple Array Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/simple-array-sum.cs)
             - [Problem](https://www.hackerrank.com/challenges/compare-the-triplet/problem) Compare the Triplet [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/compare-the-triplet.cs)
@@ -155,9 +156,10 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) New Year Chaos [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/new-year-chaos.php)
         - Bit Manipulation
             - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/lonely-integer.php)
-            - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/flipping-bits.php)
             - [Problem](https://www.hackerrank.com/challenges/maximizing-xor/problem) Maximizing XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/maximizing-xor.php)
             - [Problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem) Sum vs XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sum-vs-xor.php)
+            - [Problem](https://www.hackerrank.com/challenges/the-great-xor/problem) The Great XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/the-great-xor.java)
+            - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/flipping-bits.php)
             - [Problem](https://www.hackerrank.com/challenges/sansa-and-xor/problem) Sansa and XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sansa-and-xor.java)
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/recursive-digit-sum.php)
