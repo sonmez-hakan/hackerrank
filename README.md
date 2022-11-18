@@ -12,7 +12,7 @@ Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
 Algorithm Implementation has 2 challenges to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
-Problem Solving (Basic) has 7 challenges to be completed. <br>
+Problem Solving (Basic) has 4 challenges to be completed. <br>
 
 Last Update 17.11.2022
 
