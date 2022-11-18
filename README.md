@@ -116,6 +116,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) Game of Thrones 1 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/game-of-thrones.php)
             - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/two-strings.php)
             - [Problem](https://www.hackerrank.com/challenges/string-construction/problem) String Construction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/string-construction.php)
+            - [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) Sherlock and the Valid String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-valid-string.java)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-anagrams.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) Big Sorting [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/big-sorting.php)
@@ -161,10 +162,12 @@ Last Update 17.11.2022
         - Bit Manipulation
             - [Problem](https://www.hackerrank.com/challenges/lonely-integer/problem) Lonely Integer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/lonely-integer.php)
             - [Problem](https://www.hackerrank.com/challenges/maximizing-xor/problem) Maximizing XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/maximizing-xor.php)
+            - [Problem](https://www.hackerrank.com/challenges/counter-game/problem) Counter game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/counter-game.java)
             - [Problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem) Sum vs XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sum-vs-xor.php)
             - [Problem](https://www.hackerrank.com/challenges/the-great-xor/problem) The Great XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/the-great-xor.java)
             - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem) Flipping bits [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/flipping-bits.php)
             - [Problem](https://www.hackerrank.com/challenges/sansa-and-xor/problem) Sansa and XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sansa-and-xor.java)
+            - [Problem](https://www.hackerrank.com/challenges/and-product/problem) AND Product [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/and-product.java)
         - Recursion
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
