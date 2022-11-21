@@ -5,14 +5,14 @@ It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
 189/563 challenges solved<br>
-Rank: 5384<br>
-Points: 4400.45
+Rank: 5126<br>
+Points: 4480.45
 
 Notes:<br>
 3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
 Algorithm Implementation has 2 challenges to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
-Problem Solving (Basic) has 4 challenges to be completed. <br>
+Problem Solving (Basic) has 3 challenges to be completed. <br>
 
 Last Update 17.11.2022
 
@@ -117,6 +117,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/two-strings/problem) Two Strings [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/two-strings.php)
             - [Problem](https://www.hackerrank.com/challenges/string-construction/problem) String Construction [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/string-construction.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) Sherlock and the Valid String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-valid-string.java)
+            - [Problem](https://www.hackerrank.com/challenges/richie-rich/problem) Highest Value Palindrome [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/richie-rich.java)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-anagrams.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) Big Sorting [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/big-sorting.php)
@@ -144,6 +145,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/grid-challenge/problem) Grid Challenge [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/grid-challenge.php)
             - [Problem](https://www.hackerrank.com/challenges/luck-balance/problem) Luck Balance [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/luck-balance.php)
             - [Problem](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem) Maximum Perimeter Triangle [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/maximum-perimeter-triangle.php)
+            - [Problem](https://www.hackerrank.com/challenges/candies/problem) Candies[Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/candies.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) Sherlock and The Beast [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/sherlock-and-the-beast.php)
             - [Problem](https://www.hackerrank.com/challenges/beautiful-pairs/problem) Beautiful Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/beautiful-pairs.php)
             - [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) Priyanka and Toys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/priyanka-and-toys.php)
