@@ -4,7 +4,7 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-189/563 challenges solved<br>
+191/563 challenges solved<br>
 Rank: 5126<br>
 Points: 4480.45
 
@@ -45,6 +45,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) Counting Valleys [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/counting-valleys.php)
             - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) Electronics Shop [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/electronics-shop.php)
             - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) Cats and a Mouse [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/cats-and-a-mouse.php)
+            - [Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem) Forming Magic Square [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/magic-square-forming.php)
             - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) Picking Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/picking-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) Climbing the Leaderboard [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/climbing-the-leaderboard.php)
             - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) The Hurdle Race [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/the-hurdle-race.php)
