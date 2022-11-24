@@ -4,17 +4,17 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-191/563 challenges solved<br>
-Rank: 5126<br>
-Points: 4480.45
+195/563 challenges solved<br>
+Rank: 4782<br>
+Points: 4600.88
 
 Notes:<br>
-3 easy challenge are left to solve all easy challenges. (1 Algorithm, 2 Data Structure)<br>
-Algorithm Implementation has 2 challenges to be completed.<br>
+All easy Algorithm challenges solved. <br>
+Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
-Problem Solving (Basic) has 3 challenges to be completed. <br>
+There are 4 challenges to try again. <br>
 
-Last Update 17.11.2022
+Last Update 24.11.2022
 
 - ## Problem Solving
     - Algorithms
@@ -29,7 +29,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/birthday-cake-candles.php)
             - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/time-conversion.php)
-        - Implementation
+        - Implementation (Completed)
             - [Problem](https://www.hackerrank.com/challenges/grading/problem) Grading [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/grading.php)
             - [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) Apple and Orange [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/apple-and-orange.php)
             - [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) Kangaroo [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/kangaroo.php)
@@ -92,6 +92,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/3d-surface-area/problem) 3D Surface Area [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/3d-surface-area.cs)
             - [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem) Absolute Permutation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/absolute-permutation.cs)
             - [Problem](https://www.hackerrank.com/challenges/bomber-man/problem) The Bomberman Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/bomber-man.cs)
+            - [Problem](https://www.hackerrank.com/challenges/two-pluses/problem) Ema's Supercomputer [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/two-pluses.java)
             - [Problem](https://www.hackerrank.com/challenges/larrys-array/problem) Larry's Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/larrys-array.php)
             - [Problem](https://www.hackerrank.com/challenges/almost-sorted/problem) Almost Sorted [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/almost-sorted.cs)
             - [Problem](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) Matrix Layer Rotation [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/matrix-rotation-algo.cs)
@@ -156,6 +157,7 @@ Last Update 17.11.2022
             - [Problem](https://www.hackerrank.com/challenges/angry-children/problem) Max min [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/angry-children.java)
             - [Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) Jim and the Orders [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/jim-and-the-orders.php)
             - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/two-arrays.php)
+            - [Problem](https://www.hackerrank.com/challenges/pylons/problem) Goodland Electricity [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/pylons.java)
         - Dynamic Programming
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
         - Constructive Algorithms
@@ -176,6 +178,7 @@ Last Update 17.11.2022
         - Game Theory
             - [Problem](https://www.hackerrank.com/challenges/game-of-stones-1/problem) Game of Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/game-of-stones-1.php)
             - [Problem](https://www.hackerrank.com/challenges/tower-breakers-1/problem) Tower Breakers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/tower-breakers-1.php)
+            - [Problem](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) A Chessboard Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/a-chessboard-game-1.cs)
             - [Problem](https://www.hackerrank.com/challenges/nim-game-1/problem) Introduction to Nim Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/nim-game-1.php)
             - [Problem](https://www.hackerrank.com/challenges/misere-nim-1/problem) Misère Nim [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/misere-nim-1.php)
             - [Problem](https://www.hackerrank.com/challenges/nimble-game-1/problem) Nimble Game [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/nimble-game-1.php)
