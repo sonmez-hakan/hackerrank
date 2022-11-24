@@ -4,21 +4,21 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-195/563 challenges solved<br>
-Rank: 4782<br>
-Points: 4600.88
+196/563 challenges solved<br>
+Rank: 4738<br>
+Points: 4620.45
 
 Notes:<br>
 All easy Algorithm challenges solved. <br>
 Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
-There are 4 challenges to try again. <br>
+There are 3 challenges to try again. <br>
 
 Last Update 24.11.2022
 
 - ## Problem Solving
     - Algorithms
-        - Warmup (Completed)
+        - Warmup 
             - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) Solve Me First [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/solve-me-first.cs)
             - [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) Simple Array Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/simple-array-sum.cs)
             - [Problem](https://www.hackerrank.com/challenges/compare-the-triplet/problem) Compare the Triplet [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/compare-the-triplet.cs)
@@ -29,7 +29,7 @@ Last Update 24.11.2022
             - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) Mini-Max Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/mini-max-sum.php)
             - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) Birthday Cake Candles [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/birthday-cake-candles.php)
             - [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) Time Conversion [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Warmup/time-conversion.php)
-        - Implementation (Completed)
+        - Implementation
             - [Problem](https://www.hackerrank.com/challenges/grading/problem) Grading [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/grading.php)
             - [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) Apple and Orange [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/apple-and-orange.php)
             - [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) Kangaroo [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Implementation/kangaroo.php)
@@ -135,11 +135,12 @@ Last Update 24.11.2022
             - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem) Find the Median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/find-the-median.php)
             - [Problem](https://www.hackerrank.com/challenges/countingsort4/problem) Counting Sort 4 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/countingsort4.php)
         - Search
+            - [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) Hackerland Radio Transmitters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/hackerland-radio-transmitters.php)
             - [Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem) Ice Cream Parlor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/icecream-parlor.php)
             - [Problem](https://www.hackerrank.com/challenges/missing-numbers/problem) Missing Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/missing-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem) Sherlock And Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/sherlock-and-array.php)
             - [Problem](https://www.hackerrank.com/challenges/pairs/problem) Pairs [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/pairs.php)
-            - [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) Connected Cells in a Grid [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/connected-cell-in-a-grid.cs)
+            - [Problem](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) Connected Cells in a Grid [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/connected-cell-in-a-grid.php)
             - [Problem](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem) Red Knight's Shortest Path [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/red-knights-shortest-path.java)
         - Greedy
             - [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) Minimum Absolute Difference in an Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/minimum-absolute-difference-in-an-array.php)
