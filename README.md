@@ -4,17 +4,17 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-199/563 challenges solved<br>
-Rank: 4461<br>
-Points: 4735.45
+200/563 challenges solved<br>
+Rank: 4205<br>
+Points: 4835.45
 
 Notes:<br>
-All easy Algorithm challenges && Problem Solving Basic challenges solved. <br>
+All easy Algorithm challenges && Problem Solving (Basic) challenges solved. <br>
 Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
-Last Update 28.11.2022
+Last Update 29.11.2022
 
 - ## Problem Solving
     - Algorithms
@@ -121,7 +121,8 @@ Last Update 28.11.2022
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) Sherlock and the Valid String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-valid-string.java)
             - [Problem](https://www.hackerrank.com/challenges/richie-rich/problem) Highest Value Palindrome [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/richie-rich.java)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-anagrams.php)
-            - [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) Bear and Steady Gene [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/bear-and-steady-gene.php)
+            - [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) Bear and Steady Gene [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/bear-and-steady-gene.java)
+            - [Problem](https://www.hackerrank.com/challenges/morgan-and-a-string/problem) Morgan and a String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/morgan-and-a-string.java)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) Big Sorting [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/big-sorting.php)
             - [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) Tutorial Intro [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/tutorial-intro.php)
