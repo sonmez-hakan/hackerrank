@@ -4,17 +4,17 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-197/563 challenges solved<br>
-Rank: 4701<br>
-Points: 4640.45
+199/563 challenges solved<br>
+Rank: 4461<br>
+Points: 4735.45
 
 Notes:<br>
-All easy Algorithm challenges solved. <br>
+All easy Algorithm challenges && Problem Solving Basic challenges solved. <br>
 Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 3 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
-Last Update 25.11.2022
+Last Update 28.11.2022
 
 - ## Problem Solving
     - Algorithms
@@ -121,6 +121,7 @@ Last Update 25.11.2022
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) Sherlock and the Valid String [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-valid-string.java)
             - [Problem](https://www.hackerrank.com/challenges/richie-rich/problem) Highest Value Palindrome [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/richie-rich.java)
             - [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) Sherlock and Anagrams [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/sherlock-and-anagrams.php)
+            - [Problem](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) Bear and Steady Gene [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Strings/bear-and-steady-gene.php)
         - Sorting
             - [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) Big Sorting [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/big-sorting.php)
             - [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) Tutorial Intro [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/tutorial-intro.php)
@@ -175,7 +176,7 @@ Last Update 25.11.2022
             - [Problem](https://www.hackerrank.com/challenges/sansa-and-xor/problem) Sansa and XOR [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/sansa-and-xor.java)
             - [Problem](https://www.hackerrank.com/challenges/and-product/problem) AND Product [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Bit%20Manipulation/and-product.java)
         - Recursion
-            - [Problem](https://www.hackerrank.com/challenges/the-power-sum/problem) Power Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/the-power-sum.java)
+            - [Problem](https://www.hackerrank.com/challenges/the-power-sum/problem) The Power Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/the-power-sum.java)
             - [Problem](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) Recursive Digit Sum [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Recursion/recursive-digit-sum.php)
         - Game Theory
             - [Problem](https://www.hackerrank.com/challenges/game-of-stones-1/problem) Game of Stones [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Game%20Theory/game-of-stones-1.php)
@@ -190,6 +191,7 @@ Last Update 25.11.2022
             - [Problem](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) Zig Zag Sequence [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Debugging/zig-zag-sequence.java)
             - [Problem](https://www.hackerrank.com/challenges/smart-number/problem) Smart Number [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Debugging/smart-number.cpp)
             - [Problem](https://www.hackerrank.com/challenges/prime-date/problem) Prime Date [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Debugging/prime-date.java)
+            - [Problem](https://www.hackerrank.com/challenges/minimum-operations/problem) Minimum Operations [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Debugging/minimum-operations.java)
     - Data Structures
         - Arrays
             - [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) Arrays - DS [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Data%20Structures/Arrays/array-ds.php)
