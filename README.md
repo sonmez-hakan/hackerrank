@@ -4,14 +4,14 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-200/563 challenges solved<br>
-Rank: 4205<br>
-Points: 4835.45
+201/563 challenges solved<br>
+Rank: 4119<br>
+Points: 4875.45
 
 Notes:<br>
 All easy Algorithm challenges && Problem Solving (Basic) challenges solved. <br>
 Data Structures has 2 easy challenge to be completed.<br>
-Algorithm Sorting has 3 challenges to be completed. <br>
+Algorithm Sorting has 2 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
 Last Update 29.11.2022
@@ -136,6 +136,7 @@ Last Update 29.11.2022
             - [Problem](https://www.hackerrank.com/challenges/closest-numbers/problem) Closest Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/closest-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem) Find the Median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/find-the-median.php)
             - [Problem](https://www.hackerrank.com/challenges/countingsort4/problem) Counting Sort 4 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/countingsort4.php)
+            -  [Problem](https://www.hackerrank.com/challenges/lilys-homework/problem) Lily's Homework [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/lilys-homework.php)
         - Search
             - [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) Hackerland Radio Transmitters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/hackerland-radio-transmitters.php)
             - [Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem) Ice Cream Parlor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/icecream-parlor.php)
