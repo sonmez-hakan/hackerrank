@@ -14,7 +14,7 @@ Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 2 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
-Last Update 29.11.2022
+Last Update 24.07.2023
 
 - ## Problem Solving
     - Algorithms
