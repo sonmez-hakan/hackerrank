@@ -164,6 +164,7 @@ Last Update 29.11.2022
             - [Problem](https://www.hackerrank.com/challenges/pylons/problem) Goodland Electricity [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/pylons.java)
         - Dynamic Programming
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
+            - [Problem](https://www.hackerrank.com/challenges/maxsubarray/problem) The Maximum Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/maxsubarray.py)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
             - [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) Gaming Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/an-interesting-game-1.java)
