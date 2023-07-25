@@ -4,9 +4,9 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-201/563 challenges solved<br>
-Rank: 4119<br>
-Points: 4875.45
+202/563 challenges solved<br>
+Rank: 4507<br>
+Points: 4927.7
 
 Notes:<br>
 All easy Algorithm challenges && Problem Solving (Basic) challenges solved. <br>
@@ -164,6 +164,7 @@ Last Update 29.11.2022
             - [Problem](https://www.hackerrank.com/challenges/pylons/problem) Goodland Electricity [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/pylons.java)
         - Dynamic Programming
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
+            - [Problem](https://www.hackerrank.com/challenges/maxsubarray/problem) The Maximum Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/maxsubarray.py)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
             - [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) Gaming Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/an-interesting-game-1.java)
