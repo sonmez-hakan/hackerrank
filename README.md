@@ -1,12 +1,12 @@
 # HackerRank Solutions 
 
-This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data Structures' Questions. However, there are some C# solutions.
+This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data Structures' Questions. However, there are some C# & Python solutions.
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-202/563 challenges solved<br>
-Rank: 4507<br>
-Points: 4927.7
+203/563 challenges solved<br>
+Rank: 4981<br>
+Points: 4987.7
 
 Notes:<br>
 All easy Algorithm challenges && Problem Solving (Basic) challenges solved. <br>
@@ -14,7 +14,7 @@ Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 2 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
-Last Update 24.07.2023
+Last Update 10.06.2024
 
 - ## Problem Solving
     - Algorithms
@@ -163,6 +163,7 @@ Last Update 24.07.2023
             - [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) Permuting Two Arrays [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/two-arrays.php)
             - [Problem](https://www.hackerrank.com/challenges/pylons/problem) Goodland Electricity [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Greedy/pylons.java)
         - Dynamic Programming
+            - [Problem](https://www.hackerrank.com/challenges/coin-change/problem) The Coin Change Problem [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/coin-change.py)
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
             - [Problem](https://www.hackerrank.com/challenges/maxsubarray/problem) The Maximum Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/maxsubarray.py)
         - Constructive Algorithms
