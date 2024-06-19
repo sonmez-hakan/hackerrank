@@ -4,9 +4,9 @@ This repository is mostly Java & PHP solutions of HackerRank Algorithms & Data S
 It is one of the biggest public repository for Algorithms & Data Structures.
 
 Profile: [Hakan_SONMEZ](https://www.hackerrank.com/Hakan_SONMEZ)<br>
-203/563 challenges solved<br>
-Rank: 4981<br>
-Points: 4987.7
+205/563 challenges solved<br>
+Rank: 4781<br>
+Points: 5077.7
 
 Notes:<br>
 All easy Algorithm challenges && Problem Solving (Basic) challenges solved. <br>
@@ -14,7 +14,7 @@ Data Structures has 2 easy challenge to be completed.<br>
 Algorithm Sorting has 2 challenges to be completed. <br>
 There are 3 challenges to try again. <br>
 
-Last Update 10.06.2024
+Last Update 20.06.2024
 
 - ## Problem Solving
     - Algorithms
@@ -136,7 +136,8 @@ Last Update 10.06.2024
             - [Problem](https://www.hackerrank.com/challenges/closest-numbers/problem) Closest Numbers [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/closest-numbers.php)
             - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem) Find the Median [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/find-the-median.php)
             - [Problem](https://www.hackerrank.com/challenges/countingsort4/problem) Counting Sort 4 [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/countingsort4.php)
-            -  [Problem](https://www.hackerrank.com/challenges/lilys-homework/problem) Lily's Homework [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/lilys-homework.php)
+            - [Problem](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) Lily's Homework [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/fraudulent-activity-notifications.py)
+            - [Problem](https://www.hackerrank.com/challenges/lilys-homework/problem) Lily's Homework [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Sorting/lilys-homework.php)
         - Search
             - [Problem](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) Hackerland Radio Transmitters [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/hackerland-radio-transmitters.php)
             - [Problem](https://www.hackerrank.com/challenges/icecream-parlor/problem) Ice Cream Parlor [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Search/icecream-parlor.php)
@@ -166,6 +167,7 @@ Last Update 10.06.2024
             - [Problem](https://www.hackerrank.com/challenges/coin-change/problem) The Coin Change Problem [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/coin-change.py)
             - [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) Fibonacci Modified [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/fibonacci-modified.java)
             - [Problem](https://www.hackerrank.com/challenges/maxsubarray/problem) The Maximum Subarray [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/maxsubarray.py)
+            - [Problem](https://www.hackerrank.com/challenges/stockmax/problem) Stock Maximize [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Dynamic%20Programming/stockmax.py)
         - Constructive Algorithms
             - [Problem](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) Flipping the Matrix [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/flipping-the-matrix.php)
             - [Problem](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) Gaming Array [Solution](https://github.com/sonmez-hakan/HackerRank/blob/master/Algorithms/Constructive%20Algorithms/an-interesting-game-1.java)
